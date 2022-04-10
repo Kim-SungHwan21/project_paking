@@ -1,2 +1,4 @@
-package com.nhnacademy.project.parking;public class Customer {
+package com.nhnacademy.project.parking;
+
+public class Customer {
 }
