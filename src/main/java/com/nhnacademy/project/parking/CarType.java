@@ -1,4 +1,4 @@
-package com.nhnacademy.project.paking;
+package com.nhnacademy.project.parking;
 
 public enum CarType {
     LARGE,
