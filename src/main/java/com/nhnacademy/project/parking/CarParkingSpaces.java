@@ -2,6 +2,11 @@ package com.nhnacademy.project.parking;
 
 public interface CarParkingSpaces {
 
-    Car scan(Car car);
+    String scan(Car car);
+
+    Car parking(Car car);
+
+    Car exit(Car car);
+
 
 }
